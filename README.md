@@ -1,6 +1,6 @@
 # Practice: Favorite button in Pokemon List
 
-Essa prática exemplifica a implementação do botão de favorito na aplicação, utilizando context api.
+This practice exemplifies the use of Context Api.
 
 # Getting Started with Create React App
 

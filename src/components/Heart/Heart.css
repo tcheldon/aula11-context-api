@@ -1,5 +1,7 @@
 .heart {
+    /* cursor do mouse com mãozinha */
     cursor: pointer;
+    /* preenchimento cinza */
     fill: lightgray;
 }
 
